@@ -1,0 +1,7 @@
+C:\Users\Joseph\source\repos\ClassProject-Deliverable2_Iterative_Statement\bin\Debug\ClassProject-Deliverable2_Iterative_Statement.exe.config
+C:\Users\Joseph\source\repos\ClassProject-Deliverable2_Iterative_Statement\bin\Debug\ClassProject-Deliverable2_Iterative_Statement.exe
+C:\Users\Joseph\source\repos\ClassProject-Deliverable2_Iterative_Statement\bin\Debug\ClassProject-Deliverable2_Iterative_Statement.pdb
+C:\Users\Joseph\source\repos\ClassProject-Deliverable2_Iterative_Statement\obj\Debug\ClassProject-Deliverable2_Iterative_Statement.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\ClassProject-Deliverable2_Iterative_Statement\obj\Debug\ClassProject-Deliverable2_Iterative_Statement.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\ClassProject-Deliverable2_Iterative_Statement\obj\Debug\ClassProject-Deliverable2_Iterative_Statement.exe
+C:\Users\Joseph\source\repos\ClassProject-Deliverable2_Iterative_Statement\obj\Debug\ClassProject-Deliverable2_Iterative_Statement.pdb
